@@ -35,3 +35,18 @@ data size:~10^6
 This problem set will be more meaty than previous ones. You will implement your own Graph Neural Nets to predict molecular properties and traing a Variational Auto-Encoder to generate new molecules from a learned hidden continuous representation 
 
 
+[**PS5**](https://github.com/wwang2/ML4MolEng/blob/master/psets/ps5/MLMOL_Spring_2021_PS5.pdf)
+
+data size:~10^3 images
+
+Application of computer vision in molecular engineering. You will use deep-learning model to classify steel surface defects and predict segmentation mask for cellular nuclei.
+
+
+**PS6**
+
+You will participate in two ML competitions:
+
+[predicting caner progression](https://github.com/wwang2/ML4MolEng/blob/master/psets/ps6/MLMOL_Spring_2021_ps6_bioE.pdf)
+
+[predicting solvation free energies](https://github.com/wwang2/ML4MolEng/blob/master/psets/ps6/MLMOL_Spring_2021_PS6_chem_mat.pdf)
+
